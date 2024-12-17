@@ -1,4 +1,4 @@
-# NuxtHub Image Gallery Starter Template
+# NuxtHub Image Gallery Starter Template!
 
 This starter lets you get started with [NuxtHub Blob](https://hub.nuxt.com/docs/storage/blob) in seconds.
 
